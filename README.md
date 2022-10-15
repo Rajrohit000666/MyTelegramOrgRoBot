@@ -29,7 +29,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://GitHub.com/SpEcHiDe/MyTelegramOrgRoBot.git
+git clone https://github.com/Rajrohit000666/MyTelegramOrgRoBot.git
 ```
 
 - change the directory.
@@ -81,4 +81,4 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
   - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [me](https://t.me/cute_girl_rani)
